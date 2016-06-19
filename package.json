@@ -2,7 +2,7 @@
   "name": "uglify-js-plugin-es-compat",
   "version": "1.0.0",
   "description": "",
-  "main": "ModuleFilenameHelpers.js",
+  "main": "UglifyJsPlugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
